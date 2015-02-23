@@ -20,6 +20,8 @@ import br.com.fiap.message.ShowMessage;
 /**
  * 
  * @author Marcel Levinspuhl Junior
+ * 
+ * Classe para teste de performance JDBC e JPA
  *
  */
 public class JDBCvsJPATeste {

@@ -17,6 +17,11 @@ import javax.persistence.Persistence;
 import br.com.fiap.entities.TabelaDado;
 import br.com.fiap.message.ShowMessage;
 
+/**
+ * 
+ * @author Marcel Levinspuhl Junior
+ *
+ */
 public class JDBCvsJPATeste {
 	protected static EntityManagerFactory entityManagerFactory;
 	protected static EntityManager em;
